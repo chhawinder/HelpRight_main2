@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg ">
       <div className="container-fluid mx-5">
-        <a className="navbar-brand" href="https://chhawinder.github.io/helprightMain/">
+        <a className="navbar-brand" href="https://chhawinder.github.io/HelpRight_main2/">
           HelpRight
         </a>
         <button
