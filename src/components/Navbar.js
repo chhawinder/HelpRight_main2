@@ -21,7 +21,10 @@ function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-            <li className="nav-item">
+            
+          </ul>
+          <ul className="navbar-nav navbar-right">
+          <li className="nav-item">
               <a className="nav-link" href="#">
                 About
               </a>
@@ -32,18 +35,6 @@ function Navbar() {
               </a>
             </li>
            
-          </ul>
-          <ul className="navbar-nav navbar-right">
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                Login
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                Sign up
-              </a>
-            </li>
           </ul>
         </div>
       </div>

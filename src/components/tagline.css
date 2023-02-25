@@ -1,37 +1,66 @@
 
 .tag{
    
-    position: absolute;
+    position: relative;
     color: white;
     font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-weight: bolder;
+    animation: slide-in 1s forwards;
+    
 }
 .tag h1{
     font-size: 70px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    
+   
     
 
 }
+.slide-in {
+    animation: none;
+    left: 0%;
+    transition: left 1s;
+  }
+  
+  
+  
+  
 .tag p{
    
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 40px;
+    font-weight: 200;
+    
 
 }
 .button {
     font-weight: bold;
     margin-top: 40px;
+    margin-right: 5%;
     background-color: white;
     color: #002147;
     border: none;
     padding: 12px 24px;
-    border-radius: 4px;
+    border-radius: 8px;
     font-size: 16px;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(26, 22, 22, 0.2);
+    width: 18%;
+    margin-bottom: 10%;
   }
 
   .button:hover{
     background-color: #002147;
     color: white;
+  }
+
+  @keyframes slide-in {
+    0% {
+      left: -100%;
+    }
+    100% {
+      left: 0%;
+    }
   }
