@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HelpRight_main2/static/css/main.2d100e23.css",
-    "main.js": "/HelpRight_main2/static/js/main.349d23fe.js",
+    "main.js": "/HelpRight_main2/static/js/main.c7697d48.js",
     "static/js/787.28cb0dcd.chunk.js": "/HelpRight_main2/static/js/787.28cb0dcd.chunk.js",
     "static/media/slick.svg": "/HelpRight_main2/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/HelpRight_main2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "index.html": "/HelpRight_main2/index.html",
     "static/media/slick.woff": "/HelpRight_main2/static/media/slick.295183786cd8a1389865.woff",
     "main.2d100e23.css.map": "/HelpRight_main2/static/css/main.2d100e23.css.map",
-    "main.349d23fe.js.map": "/HelpRight_main2/static/js/main.349d23fe.js.map",
+    "main.c7697d48.js.map": "/HelpRight_main2/static/js/main.c7697d48.js.map",
     "787.28cb0dcd.chunk.js.map": "/HelpRight_main2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d100e23.css",
-    "static/js/main.349d23fe.js"
+    "static/js/main.c7697d48.js"
   ]
 }
