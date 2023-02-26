@@ -4,8 +4,11 @@ import React from 'react';
 import './tagline.css';
 
 function Tagline() {
-  function handleClick(){
-    window.location.href='https://chhawinder.github.io/helprightFeed/';
+  function handleClick1(){
+    window.location.href='https://chhawinder.github.io/HelpRight_signup/';
+  }
+  function handleClick2(){
+    window.location.href='https://chhawinder.github.io/HelpRight_login3/';
   }
    function componentDidMount() {
     const taglineElement = document.querySelector('.tagline');
@@ -20,8 +23,8 @@ function Tagline() {
       <h1>HELP FOR <br /> BETTER FUTURE</h1>
       <p>Volunteer to Make the World Better</p>
 
-      <button className="button" onClick={handleClick}>SignIn</button>
-      <button className="button" onClick={handleClick}>LogIn</button>
+      <button className="button" onClick={handleClick1}>SignUn</button>
+      <button className="button" onClick={handleClick2}>LogIn</button>
 
 
     </div>
