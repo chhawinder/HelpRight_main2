@@ -23,7 +23,7 @@ function Tagline() {
       <h1>HELP FOR <br /> BETTER FUTURE</h1>
       <p>Volunteer to Make the World Better</p>
 
-      <button className="button" onClick={handleClick1}>SignUn</button>
+      <button className="button" onClick={handleClick1}>SignUp</button>
       <button className="button" onClick={handleClick2}>LogIn</button>
 
 
