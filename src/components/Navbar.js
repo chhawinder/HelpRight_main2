@@ -30,8 +30,8 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Services
+              <a className="nav-link" href="https://chhawinder.github.io/HelpRight_feed/">
+                Feed
               </a>
             </li>
            
